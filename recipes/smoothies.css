@@ -1,6 +1,33 @@
-#Title{font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;font-size:100px;text-decoration: underline;}
-.Image-1{display: block; margin-left: auto;margin-right: auto; height: 500px; width: 500px;}
-h3{font-family:Georgia, 'Times New Roman', Times, serif;font-size: 50px;}
-p{font-family: Georgia, 'Times New Roman', Times, serif;font-size:30px ;}
-.Body-1{font-size: 30px;color: green;}
-li{font-family:Georgia, 'Times New Roman', Times, serif;font-size: 20px;}
+*{
+    padding: 0;
+    margin-bottom: 20px;
+    box-sizing:border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Barlow', sans-serif;
+}
+#Title{
+    text-align: center;
+    font-size:100px;
+    text-decoration: underline;
+}
+.Image-1{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    height: 500px; 
+    width: 500px;
+}
+h3{
+    font-size: 50px;
+}
+p{
+    font-size:30px ;
+}
+.Body-1{font-size: 30px;
+    color: green;
+}
+li{
+
+    font-size: 20px;
+}
